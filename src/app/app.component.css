@@ -1,0 +1,20 @@
+mat-sidenav-content {
+  height: 100vh;
+}
+
+mat-toolbar {
+  background-color: #fafafa;
+}
+
+h1,
+h2,
+h3 {
+  color: darkred;
+  text-decoration: underline;
+  margin-left: 1em;
+  margin-top: 1em;
+}
+
+mat-nav-list > a {
+  text-decoration: underline;
+}

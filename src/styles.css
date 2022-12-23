@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+  height: 100%;
+  display: block;
+  margin: auto;
+}
+
+body [class^="mat-"]:not(mat-icon),
+body [class*="mat-"]:not(mat-icon) {
+  font-family: "Century Gothic", "CenturyGothic", "AppleGothic",
+    "century-gothic", sans-serif;
+}

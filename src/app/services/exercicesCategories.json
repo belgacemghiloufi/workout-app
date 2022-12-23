@@ -1,0 +1,344 @@
+[
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-epaules",
+    "imgWidth": "350",
+    "id": "fccb8281-f130-4583-915f-bcbad430dd80",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2021/08/presse-epaule.jpg",
+    "exerciceTitle": "Épaules",
+    "description": "Les meilleurs exercices d’épaules pour améliorer la stabilité, la puissance et l’esthétique. Ajoutez de la variété à votre entraînement d’épaule avec ces excellents exercices de musculation. De larges épaules révèlent au monde entier que vous êtes un grand sportif (un peu de vanité ne fait pas de mal). Des épaules plus musclées signifient également que vous pouvez soulever plus lourd au développé couché ou au développé militaire, tout en évitant les blessures. Les épaules sont un muscle plus petit que les muscles de la poitrine et du dos, mais cela ne justifie pas que vous mettiez l’entraînement des épaules au second plan. Nous avons dressé ci-dessous une liste des meilleurs exercices pour se muscler les épaules avec différents équipements : barre, haltères, kettlebell, poulies, etc."
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-biceps",
+    "imgWidth": "350",
+    "id": "cfe7f8b9-bd70-439f-ba80-667812cf813b",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2021/10/curl-biceps-poulie-basse-musculation.jpg",
+    "exerciceTitle": "Biceps",
+    "description": "Les meilleurs exercices pour se muscler les biceps. De gros biceps montrent que vous avez travaillé dur à la salle. Les biceps sont de petits muscles, mais pour les développer, il faut du temps, une bonne méthode et une programmation intelligente. La bonne nouvelle pour vous, c’est que l’entraînement des biceps est assez simple : vous faites des flexions, des flexions et encore des flexions. Cela dit, certains exercices sont plus efficaces que d’autres. Pour vous aider à trouver celui qui vous convient le mieux, nous avons rassemblé les meilleurs exercices pour les biceps dans la liste ci-dessous."
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-triceps",
+    "imgWidth": "350",
+    "id": "84f1ec50-bdb0-4708-b600-676fa556495e",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2021/10/extension-triceps-poulie-haute-corde-exercice.jpg",
+    "exerciceTitle": "Triceps",
+    "description": "On accorde beaucoup de crédit aux biceps. Mais vos triceps, ce muscle à trois chefs qui se trouve à l’arrière de votre bras, méritent plus d’attention. En effet, vos triceps représentent près de 60 % de la masse de la partie supérieure de votre bras. Et ce n’est pas tout. Chaque fois que vous faites un développé couché, un développé couché ou des dips, c’est votre triceps qui vous aide à mobiliser la charge. Lorsque les powerlifters ne parviennent pas à verrouiller un développé couché lourd, ils se consacrent aux triceps. Nous vous présentons ci-dessous les meilleurs exercices pour se muscler les triceps qui vous aideront à obtenir des bras plus volumineux et forts."
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-pectoraux",
+    "imgWidth": "350",
+    "id": "aea06977-6839-45a2-8a1e-75386a504c66",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2000/06/developpe-incline-machine-convergente-pectoraux.jpg",
+    "exerciceTitle": "pectoraux",
+    "description": "Il existe des dizaines d’exercices de musculation que vous pourriez faire le jour des pectoraux, mais vous n’avez pas forcément envie de passer votre lundi, baptisé la journée des pectoraux, à tous les faire. Si vous voulez simplement connaître les meilleurs exercices pour se muscler les pectoraux, voici la liste complète."
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-dos",
+    "imgWidth": "350",
+    "id": "44ecbd1c-1f7c-4dd2-9c28-3f102eea6535",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2021/08/tirage-vertical-prise-serree-dos.jpg",
+    "exerciceTitle": "Dos",
+    "description": "Voici les meilleurs exercices pour se muscler le dos afin d’améliorer la force, les performances musculaires et la définition des muscles. Un dos large et fort peut vous permettre d’aller loin dans vos activités sportives. En entraînant ces muscles indispensables, vous serez plus efficace dans les mouvements de traction et de tirage en général, et cela permettra d’améliorer votre posture. Le renforcement des muscles du dos est aussi un moyen de traiter, et même de prévenir, les douleurs lombaires indésirables. En outre, un dos plus musclé vous aidera à soulever des charges plus lourdes au soulevé de terre et au développé couché."
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-abdominaux",
+    "imgWidth": "350",
+    "id": "5701333e-2433-46c4-b7fa-adf265cca90d",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/02/abdominaux-a-la-barre-exercice.jpg",
+    "exerciceTitle": "Abdominaux",
+    "description": "Les meilleurs exercices d’abdominaux pour tous les niveaux. Renforcez vos abdominaux grâce à cette série d’exercices de musculation pour débutants, pour pratiquants avancés et chevronnés. Les personnes en quête du six pack ne sont pas les seules à devoir accorder une attention particulière à leurs abdominaux lorsqu’elles se rendent à la salle de sport. Des abdominaux musclés constituent une caractéristique essentielle d’un corps solide comme le roc, ce qui devrait être un des objectifs de tout programme pour se maintenir en forme. Que votre objectif soit d’avoir un ventre plat ou de vous débarrasser de douleurs en bas du dos, découvrez ici comment se muscler les abdominaux le muscle droit de l’abdomen (celui de la tablette de chocolat), ainsi que les muscles plus profonds comme le transverse et ceux de la région du périnée."
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-fessiers",
+    "imgWidth": "350",
+    "id": "ee3fbcbb-9391-4e69-8b8f-6497074078ae",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/02/reverse-hyperextension-exercice-fessiers.jpg",
+    "exerciceTitle": "FESSIERS",
+    "description": "Les meilleurs exercices pour les fessiers que vous pouvez faire à la maison ou en salle de sport. Les fessiers sont les plus grands muscles de votre corps et ont des fonctions très importantes. Nombreux sont ceux qui souhaitent renforcer et développer leurs fessiers, autrement dit leurs fesses, pour des raisons esthétiques. Mais lorsqu’il s’agit de votre santé physique, avoir des fessiers forts est essentiel. Ils sont les principaux mobilisateurs des hanches et des cuisses, donc lorsque nous nous asseyons, nous nous tenons debout, nous sautons ou nous montons des marches, les fessiers sont sollicités pour toutes ces fonctions. Maintenant que vous savez tout sur les muscles fessiers, il est temps d’entrer dans le vif du sujet. Vous trouverez ci-dessous les meilleurs exercices pour se muscler les fessiers à ajouter à votre programme d’entraînement."
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-quadriceps",
+    "imgWidth": "350",
+    "id": "e26123fc-b336-4b71-b5e1-973d49490842",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2021/06/presse-a-cuisse-quadriceps.jpg",
+    "exerciceTitle": "Quadriceps",
+    "description": "Si vous demandez à un athlète quel est le groupe de muscles le plus impressionnant sur le corps, il y a de fortes chances qu’il réponde “les quadriceps”. Peu de muscles illustrent autant la puissance et la force qu’une paire de quadriceps volumineux et forts, visibles à travers un short ou un pantalon. Que vous soyez un pratiquant de la musculation en loisir, un sportif ou un athlète de force, des quadriceps forts sont essentiels pour vos performances. Nous vous proposons ci-dessous une liste des meilleurs exercices pour se muscler les quadriceps à tester dans votre programme de musculation."
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-ischio-jambiers",
+    "imgWidth": "350",
+    "id": "0212e112-cb4e-4ac7-9742-e5ad080b1147",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/02/leg-curl-assis-machine-exercice-ischio-jambiers.jpg",
+    "exerciceTitle": "Ischio-jambiers",
+    "description": "Si vos ischio-jambiers sont faibles, il y a de fortes chances que vous n’exploitiez pas au maximum votre potentiel de force avec des exercices de musculation comme le squat et le soulevé de terre. De plus, le manque de force excentrique au niveau des ischio-jambiers est une cause connue de claquages des ischio-jambiers. Leur prêter attention est excellent pour les performances, l’esthétique et la prévention des blessures. Les ischio-jambiers étant des extenseurs au niveau de la hanche et des fléchisseurs au niveau des genoux, il est donc important de les entraîner “dans les deux sens”. Nous vous présentons ci-dessous les meilleurs exercices pour se muscler les ischio-jambiers afin d’améliorer vos performances, votre force et de favoriser l’hypertrophie."
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-mollets",
+    "imgWidth": "350",
+    "id": "6c5b2e86-ca85-4901-a44b-a6c424954a38",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2021/10/extension-mollets-barre-debout-mollets.jpg",
+    "exerciceTitle": "Mollets",
+    "description": "Les meilleurs exercices pour obtenir de gros mollets. Des mollets bien développés sont l’un des éléments clés pour une silhouette équilibrée. Cependant, les mollets ont tendance à être connus comme l’un des groupes musculaires les plus difficiles à développer pour de nombreuses personnes. À moins d’être génétiquement doté de mollets développés, la plupart des gens doivent travailler dur pour les développer. Que vous essayez d’impressionner les autres amateurs de musculation, d’améliorer votre santé générale ou simplement d’avoir de belles jambes, vous avez de nombreuses raisons de travailler régulièrement vos mollets. Pour répondre à vos attentes, nous vous proposons ci-dessous une liste des meilleurs exercices pour se muscler les mollets."
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-avec-barre",
+    "imgWidth": "350",
+    "id": "0b75ab6a-59a9-4c73-a42d-acfff5f9254a",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/01/rack-pull-exercice-jambes.jpg",
+    "exerciceTitle": "Exercices avec barre",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-a-la-poulie",
+    "imgWidth": "350",
+    "id": "e171b366-bb0e-4f32-9539-b3c68b3d037a",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/02/pull-over-poulie-exercice-dos.jpg",
+    "exerciceTitle": "Exercices à la poulie",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-avec-machine",
+    "imgWidth": "350",
+    "id": "75c12639-7b35-419f-8e60-8a6c2b67e1b0",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2021/10/extension-mollets-presse-45-soleaire.jpg",
+    "exerciceTitle": "Exercices avec machine",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-halteres",
+    "imgWidth": "350",
+    "id": "de88736b-cea2-4b3b-a56a-a61cbc2f07b6",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/02/curl-haltere-debout-banc-incline-exercice-biceps-brachial.jpg",
+    "exerciceTitle": "Exercices avec haltères",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-sans-materiel",
+    "imgWidth": "350",
+    "id": "958a847a-cbc8-48cf-9f47-f340283dbf7a",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2021/12/squat-pistol-exercice-jambe.jpg",
+    "exerciceTitle": "Exercices sans matériel",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-au-poids-de-corps",
+    "imgWidth": "350",
+    "id": "3dac5814-a77b-4275-bbc3-c08fe2160d3d",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/01/traction-australienne-rowing-poids-du-corps-exercice-dos.jpg",
+    "exerciceTitle": "Exercices au poids de corps",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-avec-kettlebell",
+    "imgWidth": "350",
+    "id": "b6c7cae1-fd99-4a56-a121-0f4df7369050",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2021/12/front-squat-kettlebell-exercice-quadriceps.jpg",
+    "exerciceTitle": "Exercices avec KETTLEBELL",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-avec-elastique",
+    "imgWidth": "350",
+    "id": "c39a92cc-d089-4b0a-955e-44ac678b986a",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/01/curl-avec-elastique-exercice-biceps.jpg",
+    "exerciceTitle": "EXERCICES AVEC ÉLASTIQUE",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-avec-landmine",
+    "imgWidth": "350",
+    "id": "bea71c98-7791-479d-97e5-795c51830977",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/02/rowing-unilateral-landmine-exercice-meadows-row-grand-dorsal.jpg",
+    "exerciceTitle": "EXERCICES AVEC LANDMINE",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-avec-smith-machine",
+    "imgWidth": "350",
+    "id": "fde33a42-5010-4828-93ca-82f4bc429dfe",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/08/developpe-epaules-smith-machine-musculation-debutant.jpg",
+    "exerciceTitle": "Exercices avec la Smith machine",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/squat",
+    "imgWidth": "350",
+    "id": "6200adf2-ba96-4ab2-a902-76b756508996",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2021/12/squat-flexion-sur-jambes.jpg",
+    "exerciceTitle": "Squat",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/comment-faire-developpe-couche",
+    "imgWidth": "350",
+    "id": "fa33c815-aec3-4e94-8afe-5572fb3879e2",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2021/12/developpe-couche-bench-press.jpg",
+    "exerciceTitle": "Développé couché",
+    "description": "Si vous êtes débutant, faites ces étapes avec une barre à vide jusqu’à ce que vous soyez habitué."
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/souleve-de-terre",
+    "imgWidth": "350",
+    "id": "0e4d1544-241d-4206-8b96-daebbf9789da",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/01/souleve-de-terre-deadlift.jpg",
+    "exerciceTitle": "Soulevé de terre",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/pourquoi-devrait-on-faire-des-pompes-plus-souvent",
+    "imgWidth": "350",
+    "id": "4f8e8bed-d290-407e-bd88-30991b25d069",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/03/pompe-exercice-musculation.jpg",
+    "exerciceTitle": "POMPE",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/comment-faire-des-dips",
+    "imgWidth": "350",
+    "id": "e224a8c8-de2f-4902-81f4-769f980753a2",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/03/dips-se-muscler-triceps.jpg",
+    "exerciceTitle": "DIPS",
+    "description": "Les dips permettent aussi de travailler les muscles du haut du dos, les avant-bras et les abdominaux qui participent à stabiliser le corps pendant le mouvement."
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/traction",
+    "imgWidth": "350",
+    "id": "903851dd-7252-49a6-be07-6fdb58db9ed9",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/02/traction-musculation-dos-exercice.jpg",
+    "exerciceTitle": "TRACTION",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/crunch-au-sol",
+    "imgWidth": "350",
+    "id": "2a84029d-99bb-4ae7-88bd-dac51d4eedd1",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2021/07/crunch-au-sol-abdominaux.jpg",
+    "exerciceTitle": "Crunch",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/developpe-militaire",
+    "imgWidth": "350",
+    "id": "fac104d8-782e-445a-85d0-0b32b1469a68",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2021/08/developpe-militaire-epaules.jpg",
+    "exerciceTitle": "Développé militaire",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/cardio-training",
+    "imgWidth": "350",
+    "id": "efcb86d2-724c-40a8-9acb-6b93035fd2c8",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/07/jumping-jack-exercice-cardio-jambes.jpg",
+    "exerciceTitle": "Exercices Cardio",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-sangles-suspension",
+    "imgWidth": "350",
+    "id": "5b762a83-a101-4bcb-b83f-dd526b4d3239",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/10/rowing-avec-sangles-de-suspension-trx-musculation-dos-maison.jpg",
+    "exerciceTitle": "Exercices avec sangles de suspension",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/12-exercices-a-la-battle-rope",
+    "imgWidth": "350",
+    "id": "68596c7c-a6ff-4074-b1ec-c48cf4c6bbbd",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/08/exercice-renforcement-musculaire-battle-rope.jpg",
+    "exerciceTitle": "Exercices avec Battle rope",
+    "description": "Que ce soit pour vous échauffer ou terminer une séance d’entraînement, ou pour brûler un maximum de calories en un minimum de temps (pour perdre de la graisse), vous avez maintenant toutes les cartes en main. Bon entraînement !"
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/power-sled-chariot-de-puissance",
+    "imgWidth": "350",
+    "id": "e03386ca-e882-4458-8c0a-ec03f66a62dd",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/09/power-sled-chariot-de-puissance.jpg",
+    "exerciceTitle": "Exercices avec Power sled",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/meilleures-postures-yoga",
+    "imgWidth": "350",
+    "id": "3dd68893-1775-4c20-82d7-a9b585c76427",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/07/posture-du-heros-yoga-asana.jpg",
+    "exerciceTitle": "Postures de yoga",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-unilateraux",
+    "imgWidth": "350",
+    "id": "4bfa90c0-d01e-4e73-985a-c0f253f16d19",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/02/curl-haltere-debout-banc-incline-exercice-biceps-brachial.jpg",
+    "exerciceTitle": "Exercices unilatéraux",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-polyarticulaires",
+    "imgWidth": "350",
+    "id": "13709ccf-b8c2-47e3-9c1d-7670ed7eef3a",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/02/hack-squat-inverse-se-muscler-quadriceps.jpg",
+    "exerciceTitle": "Exercices poly-articulaires",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/exercices-monoarticulaires",
+    "imgWidth": "350",
+    "id": "b8c72332-b151-4b56-beea-63aa56e8aac1",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2000/08/elevations-laterales-epaules.jpg",
+    "exerciceTitle": "Exercices mono-articulaires",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/snatch-arrache",
+    "imgWidth": "350",
+    "id": "97c6c55b-f693-426e-bf0f-dbfa6c683fd7",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/08/snatch-arrache-halterophilie-exercice-weightlifting.jpg",
+    "exerciceTitle": "Snatch (arraché)",
+    "description": ""
+  },
+  {
+    "imgHeight": "250",
+    "exerciceHref": "https://www.docteur-fitness.com/clean-and-jerk-epaule-jete",
+    "imgWidth": "350",
+    "id": "1eb4326e-0ccb-4ee1-81f0-e3ce7a1ffc9a",
+    "imgBase64": "https://www.docteur-fitness.com/wp-content/uploads/2022/08/clean-and-jerk-halterophilie-olympique-epaule-jete.jpg",
+    "exerciceTitle": "Clean and jerk (épaulé-jeté)",
+    "description": "Cette variante est surtout utilisée en haltérophilie olympique."
+  }
+]

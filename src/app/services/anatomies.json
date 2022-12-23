@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Anatomie générale des muscles du corps humain",
+    "img": "assets/anatomies/anatomie-muscles-corps-humain-560x420.png.webp"
+  },
+  {
+    "name": "Anatomie détaillée des muscles de la région abdominale",
+    "img": "assets/anatomies/anatomie-muscles-region-abdominale-560x420.png.webp"
+  },
+  {
+    "name": "Anatomie détaillée des muscles du dos",
+    "img": "assets/anatomies/anatomie-muscles-du-dos-560x420.png.webp"
+  },
+  {
+    "name": "Anatomie détaillée des muscles de la région pectorale",
+    "img": "assets/anatomies/anatomie-muscles-region-pectorale-560x420.png.webp"
+  },
+  {
+    "name": "Anatomie détaillée des muscles des membres inférieurs",
+    "img": "assets/anatomies/anatomie-muscles-membres-inferieurs-560x420.png.webp"
+  },
+  {
+    "name": "Anatomie détaillée des muscles des membres supérieurs",
+    "img": "assets/anatomies/anatomie-muscles-membres-superieurs-560x420.png.webp"
+  }
+]

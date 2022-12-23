@@ -1,0 +1,22 @@
+<p class="anatomie">
+  Tout savoir et apprendre où se trouvent les principaux muscles du corps
+  humain. Nos dessins illustrés vous permettront de comprendre rapidement
+  l’anatomie musculaire avec les insertions et les fonctions des <em>bras</em>,
+  du <em>dos</em>, des <em>épaules</em>, des <em>pectoraux</em>, des
+  <em>fessiers</em>, des <em>jambes</em> (ischio-jambier, quadriceps, mollet).
+</p>
+
+<div class="container">
+  <div class="cell" *ngFor="let anatomie of anatomiesSnapshot">
+    <figure>
+      <img [src]="anatomie.img" />
+      <figcaption>
+        <strong>{{ anatomie.name }}</strong>
+      </figcaption>
+    </figure>
+  </div>
+</div>
+<div class="actions">
+  <button mat-button (click)="previous()">Previous</button>
+  <button mat-button (click)="next()">Next</button>
+</div>

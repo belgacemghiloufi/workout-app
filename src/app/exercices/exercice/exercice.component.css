@@ -1,0 +1,24 @@
+* {
+  font-size: small;
+}
+
+.container {
+  text-align: center;
+}
+
+img {
+  max-width: 30%;
+  max-height: 30%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px darkblue;
+}
+
+figcaption {
+  text-align: center;
+}

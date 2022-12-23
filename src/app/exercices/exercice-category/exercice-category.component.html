@@ -1,0 +1,15 @@
+<p class="exercices" [textContent]="description"></p>
+<div class="container">
+  <div class="cell" *ngFor="let exercice of exercicesSnapshot; index as i">
+    <figure [routerLink]="[i]">
+      <img [src]="exercice.img" />
+      <figcaption>
+        <strong>{{ exercice.name }}</strong>
+      </figcaption>
+    </figure>
+  </div>
+</div>
+<div class="actions">
+  <button mat-button (click)="previous()">Previous</button>
+  <button mat-button (click)="next()">Next</button>
+</div>

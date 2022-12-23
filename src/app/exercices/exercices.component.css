@@ -1,0 +1,56 @@
+* {
+  font-size: small;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.cell {
+  flex: 1 1 30%;
+  height: 100px;
+  gap: 100px;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px darkblue;
+}
+.exercices {
+  margin-left: 1em;
+  margin-top: 1em;
+}
+
+figcaption {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+}
+
+mat-form-field {
+  width: 50%;
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+  margin-top: 230px;
+}
+
+em {
+  color: darkred;
+  text-decoration: underline;
+}

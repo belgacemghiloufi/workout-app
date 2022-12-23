@@ -1,0 +1,36 @@
+<p class="exercices">
+  Vous trouverez ici une banque des meilleurs exercices de musculation classés
+  par groupes musculaires. Si vous souhaitez trouver un exercice en fonction
+  d’un équipement particulier, vous trouverez en naviguant des catégories
+  d’exercices à effectuer au poids de corps à la maison, à la barre, avec
+  haltères, machines en salle. Groupe musculaire : <em>Épaules</em>,
+  <em>Biceps</em>, <em>Triceps</em>, <em>pectoraux</em>, <em>Dos</em>,
+  <em>Abdominaux</em>, <em>Fessiers</em>, <em>Quadriceps</em>,
+  <em>Ischio-jambiers</em>, <em>Mollets</em>.
+</p>
+<form>
+  <mat-form-field>
+    <mat-label>Exercices Par Groupe Musculaire</mat-label>
+    <input
+      matInput
+      name="searchCriteria"
+      placeholder="Ex. Épaules"
+      (keydown)="search()"
+      [(ngModel)]="searchCriteria"
+    />
+  </mat-form-field>
+</form>
+<div class="container">
+  <div class="cell" *ngFor="let category of exercicesCategoriesSnapshot">
+    <figure [routerLink]="[category.name]">
+      <img [src]="category.img" />
+      <figcaption>
+        <strong>{{ category.name }}</strong>
+      </figcaption>
+    </figure>
+  </div>
+</div>
+<div class="actions">
+  <button mat-button (click)="previous()">Previous</button>
+  <button mat-button (click)="next()">Next</button>
+</div>
